@@ -26,3 +26,12 @@ drwxrwxrwt 16 root    root    372K Aug  2 13:58 ..
 drwxrwxr-x  7 praveen praveen 4.0K Aug  2 13:58 .git
 ```
 
+## Create a Local branch
+
+To create a local branch, run the command `git checkout -b <branch-name>`
+
+```bash
+ravi in ins15-pp24-ru11 in learngit on  main
+❯ git checkout -b add-branch-command
+Switched to a new branch 'add-branch-command'
+```

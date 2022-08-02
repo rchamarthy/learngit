@@ -35,3 +35,11 @@ ravi in ins15-pp24-ru11 in learngit on  main
 ❯ git checkout -b add-branch-command
 Switched to a new branch 'add-branch-command'
 ```
+
+## Stash your dirty file
+
+To stash your dirty files, run the command `git stash`
+
+To recover your files, run the command `git stash pop`
+
+To list the current stashed changes, run the command `git stash list`

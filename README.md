@@ -43,3 +43,8 @@ To stash your dirty files, run the command `git stash`
 To recover your files, run the command `git stash pop`
 
 To list the current stashed changes, run the command `git stash list`
+
+## REMOTES
+
+git remote -v
+
